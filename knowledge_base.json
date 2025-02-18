@@ -1,0 +1,696 @@
+{
+    "top_selling_products": {
+        "electronics": [
+            "AirPods 2 - High demand due to brand recognition",
+            "AirPods 3 - Premium market with good margins",
+            "JBL Flip 5 Speaker - Popular for outdoor use",
+            "Shure SM7B - Professional audio market",
+            "Dyson Hairdryer - High-end beauty market"
+        ],
+        "fashion": [
+            "LV Slim - Classic design with steady demand",
+            "Prada - Luxury market staple",
+            "Rolex - High-end timepiece market",
+            "LV Bracelet - Entry-level luxury accessory",
+            "Goyard Wallet - Exclusive appeal",
+            "LV Luggage - Travel luxury segment",
+            "Nike Tech - Athleisure trend",
+            "SP5DER Hoodie - Streetwear popularity",
+            "Essentials Hoodie - Basic luxury appeal",
+            "Hellstar Shirts - Alternative fashion",
+            "Denim Tears - Designer denim market",
+            "Chrome Hearts - Luxury streetwear crossover",
+            "Jordan 4s - Sneaker collector market",
+            "North Face - Outdoor/casual crossover"
+        ],
+        "accessories": [
+            "Stanley Cup - Trending lifestyle item",
+            "Keep Off Rug - Home decor statement piece",
+            "Black Messenger Bag - Professional accessory",
+            "Colognes - Personal luxury",
+            "Creed Aventus - Premium fragrance market",
+            "Colgate - Basic necessity"
+        ]
+    },
+    "best_reselling_platforms": {
+        "facebook": {
+            "advantages": [
+                "Zero platform fees means higher profit margins for sellers",
+                "Quick local sales reduce storage and shipping hassles",
+                "Easy listing process with mobile-first interface",
+                "Large local buyer base actively searching for deals",
+                "Built-in community features for market research"
+            ],
+            "tips": [
+                "Use high-quality photos with natural lighting and multiple angles",
+                "Post in multiple relevant groups to maximize visibility",
+                "Offer local pickup in safe public locations",
+                "Build reputation through consistent quality service",
+                "Use Facebook's marketplace insights for pricing"
+            ],
+            "best_practices": [
+                "Maintain detailed records of conversations and sales",
+                "Set clear pickup/delivery expectations",
+                "Use Facebook's payment protection when possible",
+                "Build a follower base for repeat customers"
+            ]
+        },
+        "ebay": {
+            "advantages": [
+                "Global reach enables access to niche collectors",
+                "Structured marketplace with buyer protection",
+                "Professional selling tools and analytics",
+                "Established trust system through feedback"
+            ],
+            "tips": [
+                "Research successful listings in your category",
+                "Use all available photo slots with professional images",
+                "Write detailed descriptions with relevant keywords",
+                "Price competitively using market research",
+                "Offer combined shipping for multiple items"
+            ],
+            "best_practices": [
+                "Maintain high seller metrics for better visibility",
+                "Handle returns professionally to maintain ratings",
+                "Use scheduled listings for optimal timing",
+                "Invest in proper packaging materials"
+            ]
+        },
+        "offerup": {
+            "advantages": [
+                "Focus on local markets reduces shipping complexity",
+                "In-app messaging streamlines communication",
+                "Simple interface appeals to casual buyers",
+                "Built-in safety features for meetups"
+            ],
+            "tips": [
+                "Price items slightly higher to allow for negotiation",
+                "Respond quickly to maintain listing visibility",
+                "Use the 'promote' feature for high-value items",
+                "Cross-post between local and shipping options"
+            ],
+            "best_practices": [
+                "Meet in safe, public locations for transactions",
+                "Verify buyer profiles before meeting",
+                "Document item condition before sale",
+                "Use in-app payments when possible"
+            ]
+        },
+        "depop": {
+            "advantages": [
+                "Fashion-focused platform attracts style-conscious buyers",
+                "Social media integration increases visibility",
+                "Young demographic willing to pay for unique items",
+                "Strong community engagement features"
+            ],
+            "tips": [
+                "Create a cohesive shop aesthetic",
+                "Use trending hashtags effectively",
+                "Style items for lifestyle photos",
+                "Engage with followers regularly",
+                "Offer curated collections"
+            ],
+            "best_practices": [
+                "Package items attractively for unboxing experience",
+                "Maintain consistent posting schedule",
+                "Build relationships with other sellers",
+                "Use platform analytics for inventory decisions"
+            ]
+        }
+    },
+    "buying_premium_advice": [
+        "Standard shipping typically takes 12-14 days, plan inventory accordingly",
+        "Start with small test orders to verify quality and reliability",
+        "Build relationships with vendors through professional communication",
+        "Account for time zone differences when working with international suppliers",
+        "Research market demand before making bulk purchases",
+        "Scale gradually to manage risk and cash flow",
+        "Monitor competitor pricing and market trends",
+        "Consider seasonal demand fluctuations",
+        "Maintain detailed records of supplier performance",
+        "Develop backup suppliers for popular items"
+    ],
+    "general_advice": [
+        "Implement quality control processes for all incoming products",
+        "Develop a system for inventory management and tracking",
+        "Build a strong brand identity across platforms",
+        "Create detailed product listings with size charts and specifications",
+        "Maintain consistent pricing strategy across platforms",
+        "Develop efficient shipping and handling procedures",
+        "Build an email list for customer retention",
+        "Track expenses and profits meticulously",
+        "Stay updated on market trends and popular items",
+        "Network with other resellers for insights and opportunities"
+    ],
+    "customer_management": {
+        "ideal_customers": [
+            "Quick decision makers",
+            "Buyers who focus on brand names",
+            "People who understand market value",
+            "Customers who appreciate quality",
+            "Those who don't require extensive product history"
+        ],
+        "customers_to_avoid": [
+            "Cologne enthusiasts who may examine products too closely",
+            "People who ask excessive questions about authenticity",
+            "Individuals with anger management issues",
+            "Those who demand unreasonable documentation",
+            "Buyers who want to negotiate excessively"
+        ],
+        "selling_tips": [
+            "Be confident and professional in your approach",
+            "Keep interactions brief and focused",
+            "Have clear policies about returns and authenticity",
+            "Trust your instincts about potential problem customers",
+            "Don't oversell or make unnecessary claims",
+            "Know when to walk away from a potentially difficult sale"
+        ]
+    },
+    "pricing_strategies": [
+        "Research current market prices across platforms.",
+        "Consider seasonal demand fluctuations.",
+        "Factor in platform fees and shipping costs.",
+        "Price higher for rare or discontinued items.",
+        "Offer competitive pricing for common products.",
+        "Utilize bundle pricing for increased sales.",
+        "Implement flash sales to attract buyers."
+    ],
+    "common_questions": {
+        "best_selling_seasons": "Peak selling seasons are before major holidays (Christmas, Valentine's Day) and during spring/summer for fresh fragrances.",
+        "storage_tips": "Store items in a cool, dark place away from sunlight and extreme temperatures.",
+        "authentication": "Check batch codes, packaging quality, and buy from reputable sources. Consider using third-party verification services.",
+        "shipping_guidelines": "Use proper packaging, declare items accurately, and follow carrier regulations."
+    },
+    "budget_recommendations": {
+        "under_50": {
+            "title": "Best Items Under $50",
+            "description": "Perfect starter items with high profit potential",
+            "items": [
+                {
+                    "name": "AirPods",
+                    "buy_price": 10.90,
+                    "sell_price": "60-80",
+                    "profit_margin": "450-635%",
+                    "tips": [
+                        "Buy in bulk to get better prices",
+                        "Take clear, well-lit photos",
+                        "Include original packaging in listing",
+                        "Highlight wireless charging feature",
+                        "Mention 1:1 quality in description"
+                    ],
+                    "selling_platforms": ["Facebook Marketplace", "OfferUp", "eBay"],
+                    "quick_start": {
+                        "step1": "Order a sample pair first to test quality",
+                        "step2": "Create listings on 2-3 platforms",
+                        "step3": "Price slightly below retail ($89-99)",
+                        "step4": "Respond quickly to buyer messages",
+                        "step5": "Ship same or next day"
+                    }
+                }
+            ]
+        },
+        "50_100": [
+            "At this budget, you can get:",
+            "- 2 designer fragrances at $45 each ($90 total)",
+            "- The Treatment Lotion ($99)",
+            "Perfect for creating small bundles or starter packs"
+        ],
+        "100_200": [
+            "With this budget, consider:",
+            "- 4 designer fragrances at $45 each ($180 total)",
+            "- Mix of Tom Ford, Chanel, and Dior fragrances",
+            "- Could include popular sellers like Sauvage EDP and Bleu de Chanel",
+            "Great for creating variety packs or building initial inventory"
+        ],
+        "200_500": [
+            "Excellent budget for serious inventory:",
+            "- 10-11 designer fragrances ($450-495)",
+            "- Mix of popular brands: Tom Ford, Chanel, Dior, YSL",
+            "- Focus on best-sellers: Sauvage, Bleu de Chanel, Lost Cherry",
+            "Perfect for establishing a diverse fragrance business"
+        ],
+        "500_1000": [
+            "Ideal for building a comprehensive inventory:",
+            "- 20+ designer fragrances",
+            "- Full range of popular lines",
+            "- Ability to offer bundle deals",
+            "- Can stock multiple units of best-sellers"
+        ],
+        "1000_2000": [
+            "Perfect for bulk buying and serious business scaling:",
+            "- Contact supplier directly for bulk pricing discounts",
+            "- 40+ fragrances at reduced wholesale rates",
+            "- Mix high-end and popular designer fragrances",
+            "- Consider expanding into other products like AirPods or designer items",
+            "- Build relationships with multiple suppliers for better deals"
+        ],
+        "over_2000": [
+            "Advanced business opportunities:",
+            "- Car flipping from Copart auctions (contact owner for details)",
+            "- Large-scale fragrance wholesale (60+ units)",
+            "- Multi-product inventory across categories",
+            "- Consider diversifying into electronics and fashion",
+            "- Build multiple revenue streams",
+            "For car flipping advice and opportunities, text the owner directly"
+        ]
+    },
+    "best_sellers": {
+        "tom_ford": [
+            "Oud Wood - $45",
+            "Lost Cherry - $45",
+            "Black Orchid - $45",
+            "Tobacco Vanille - $45"
+        ],
+        "chanel": [
+            "Bleu de Chanel EDP - $45",
+            "Coco Mademoiselle - $45",
+            "Chance - $45"
+        ],
+        "dior": [
+            "Sauvage EDP - $45",
+            "Miss Dior - $45",
+            "Jadore - $45"
+        ],
+        "ysl": [
+            "Y EDP - $45",
+            "L'Homme - $45",
+            "Libre - $45"
+        ]
+    },
+    "platform_tips": {
+        "ebay": [
+            "Use detailed descriptions with fragrance notes",
+            "Always include batch codes",
+            "Offer combined shipping for multiple purchases",
+            "Take clear photos of seals and packaging"
+        ],
+        "facebook_marketplace": [
+            "Join fragrance reselling groups",
+            "Use local pickup to avoid shipping costs",
+            "Build a reputation with consistent listings",
+            "Post in multiple relevant groups"
+        ],
+        "mercari": [
+            "Price competitively but leave room for offers",
+            "Use all available photo slots",
+            "Respond quickly to messages",
+            "Offer bundle discounts"
+        ]
+    },
+    "general_advice_colognes": [
+        "Always verify authenticity before purchasing",
+        "Store fragrances properly to maintain value",
+        "Keep up with market trends and new releases",
+        "Build relationships with suppliers",
+        "Document all transactions carefully",
+        "Learn to spot fake vs genuine products",
+        "Stay updated on shipping regulations for fragrances"
+    ],
+    "pricing_strategies_colognes": [
+        "Research current market prices across platforms",
+        "Consider seasonal demand fluctuations",
+        "Factor in platform fees and shipping costs",
+        "Price higher for rare or discontinued items",
+        "Offer competitive prices for common fragrances",
+        "Bundle deals can increase overall sales",
+        "Consider offering volume discounts"
+    ],
+    "common_questions_colognes": {
+        "best_selling_seasons": "Peak selling seasons are before major holidays (Christmas, Valentine's Day) and during spring/summer for fresh fragrances.",
+        "storage_tips": "Store fragrances in a cool, dark place away from direct sunlight and extreme temperatures.",
+        "authentication": "Check batch codes, packaging quality, and buy from reputable sources. Compare with authentic samples.",
+        "shipping_guidelines": "Use appropriate packaging, declare as fragrances when required, and follow carrier restrictions for alcohol-based products.",
+        "best_starter_brands": "Start with popular designer brands like Tom Ford, Chanel, Dior, and YSL. These have high demand and good profit margins at $45 per bottle.",
+        "profit_margins": "With fragrances priced at $45, aim for a selling price between $100 and $150 depending on the brand and market demand. Popular items like Sauvage and Lost Cherry can command higher prices.",
+        "bundle_pricing": "Consider offering deals like 'Buy 2 get 10% off' or 'Buy 3 get 15% off' to encourage larger purchases."
+    },
+    "business_tools": {
+        "products": [
+            {
+                "name": "InvexPro",
+                "description": "Advanced inventory and sales management app for resellers",
+                "key_features": [
+                    {
+                        "name": "Package Tracking",
+                        "description": "Real-time shipment updates and tracking"
+                    },
+                    {
+                        "name": "Sales Analytics",
+                        "description": "Comprehensive daily, weekly, and monthly sales performance monitoring"
+                    },
+                    {
+                        "name": "Customer Management",
+                        "description": "Detailed customer purchase history and behavior tracking"
+                    },
+                    {
+                        "name": "Financial Management",
+                        "description": "Profit calculation, expense tracking, and inventory valuation"
+                    },
+                    {
+                        "name": "Activity Dashboard",
+                        "description": "Real-time transaction and action logging"
+                    },
+                    {
+                        "name": "Inventory Control",
+                        "description": "Stock level management with low inventory alerts"
+                    },
+                    {
+                        "name": "Exclusive Supplier Network",
+                        "description": "Direct access to verified suppliers with 2-day delivery for Dysons, fragrances, and more"
+                    }
+                ],
+                "upcoming_features": [
+                    "eBay Integration",
+                    "Facebook Marketplace Connection",
+                    "StockX Passes Integration",
+                    "Advanced Analytics Dashboard",
+                    "Mobile App Enhancements",
+                    "AI-powered pricing suggestions",
+                    "Automated listing creation",
+                    "Cross-platform inventory sync"
+                ],
+                "promotion_triggers": [
+                    "inventory management",
+                    "tracking sales",
+                    "supplier access",
+                    "business scaling",
+                    "profit tracking",
+                    "customer management",
+                    "shipping management"
+                ],
+                "selling_points": [
+                    "All-in-one solution for resellers",
+                    "Exclusive supplier network with fast delivery",
+                    "Real-time tracking and analytics",
+                    "Comprehensive business management",
+                    "Regular updates and new features"
+                ],
+                "target_market": [
+                    "Active resellers",
+                    "Growing reselling businesses",
+                    "Multi-platform sellers",
+                    "High-volume traders"
+                ]
+            }
+        ],
+        "market_insights": {
+            "peak_seasons": [
+                "Black Friday",
+                "Holiday Season",
+                "Back to School"
+            ],
+            "trends": [
+                "Growing demand for automated business solutions",
+                "Increased focus on inventory management",
+                "Rise in multi-platform selling",
+                "Emphasis on data-driven decision making"
+            ]
+        },
+        "promotion_contexts": {
+            "beginner_questions": "Consider using InvexPro to track your inventory and sales as you start your reselling journey",
+            "scaling_advice": "InvexPro can help you manage larger inventory and multiple sales channels efficiently",
+            "supplier_inquiries": "Get access to exclusive suppliers with 2-day delivery through InvexPro",
+            "profit_tracking": "Use InvexPro to automatically calculate profits and track expenses",
+            "customer_management": "Keep track of your customer base and their preferences with InvexPro's customer management system"
+        }
+    },
+    "electronics": {
+        "products": [
+            {
+                "name": "AirPods 2",
+                "description": "Wireless earbuds with great sound quality",
+                "price_range": "10.90",
+                "selling_price": "60-80",
+                "profit_margin": "450-635%",
+                "target_market": "Tech enthusiasts and Apple users",
+                "selling_points": [
+                    "Popular Apple accessory",
+                    "High demand product",
+                    "Easy to ship",
+                    "Great profit margins"
+                ]
+            },
+            {
+                "name": "AirPods 3",
+                "description": "Latest generation wireless earbuds",
+                "price_range": "11.90",
+                "selling_price": "60-80",
+                "profit_margin": "400-570%",
+                "target_market": "Tech enthusiasts and Apple users",
+                "selling_points": [
+                    "Newer model with better features",
+                    "High demand product",
+                    "Easy to ship",
+                    "Great profit margins"
+                ]
+            },
+            {
+                "name": "AirPods Pro (No ANC)",
+                "description": "Pro model without Active Noise Cancellation",
+                "price_range": "14.90",
+                "selling_price": "60-80",
+                "profit_margin": "300-435%",
+                "target_market": "Tech enthusiasts seeking premium earbuds",
+                "selling_points": [
+                    "Pro features",
+                    "Premium model",
+                    "High demand",
+                    "Excellent profit potential"
+                ]
+            },
+            {
+                "name": "AirPods Pro 2 (No ANC)",
+                "description": "Second generation Pro model without ANC",
+                "price_range": "15.90",
+                "selling_price": "60-80",
+                "profit_margin": "275-400%",
+                "target_market": "Tech enthusiasts seeking latest models",
+                "selling_points": [
+                    "Latest Pro model",
+                    "Premium features",
+                    "High demand",
+                    "Great margins"
+                ]
+            },
+            {
+                "name": "AirPods Pro (ANC)",
+                "description": "Pro model with Active Noise Cancellation",
+                "price_range": "17.90",
+                "selling_price": "60-80",
+                "profit_margin": "235-345%",
+                "target_market": "Premium audio seekers",
+                "selling_points": [
+                    "Active Noise Cancellation",
+                    "Premium features",
+                    "High demand",
+                    "Good profit potential"
+                ]
+            },
+            {
+                "name": "AirPods Max",
+                "description": "Premium over-ear headphones (Available in Green, Black, Silver, Blue, Red)",
+                "price_range": "99.00",
+                "selling_price": "250-300",
+                "profit_margin": "150-200%",
+                "target_market": "Audiophiles and premium product seekers",
+                "selling_points": [
+                    "Premium over-ear design",
+                    "Multiple color options",
+                    "High-end market appeal",
+                    "Substantial profit margin"
+                ]
+            }
+        ],
+        "market_insights": {
+            "peak_seasons": ["Black Friday", "Christmas", "Back to School"],
+            "trends": [
+                "Growing demand for wireless audio",
+                "Preference for Apple ecosystem products",
+                "Interest in noise-cancelling features"
+            ]
+        }
+    },
+    "audio": {
+        "products": [
+            {
+                "name": "JBL Pulse 5",
+                "description": "Premium Bluetooth speaker with light show",
+                "price_range": "45.00",
+                "selling_price": "160",
+                "profit_margin": "255%",
+                "target_market": "Music enthusiasts and party hosts",
+                "selling_points": [
+                    "360-degree sound",
+                    "LED light show",
+                    "Waterproof design",
+                    "High profit margin"
+                ]
+            }
+        ]
+    },
+    "beauty_tech": {
+        "products": [
+            {
+                "name": "Dyson Airwrap HS05 Long",
+                "description": "Premium hair styling tool (Multiple colors available)",
+                "price_range": "195.00",
+                "selling_price": "390-585",
+                "profit_margin": "100-200%",
+                "target_market": "Beauty enthusiasts and professionals",
+                "selling_points": [
+                    "Premium brand",
+                    "Multiple attachments",
+                    "High demand product",
+                    "Excellent profit potential"
+                ]
+            },
+            {
+                "name": "Dyson Supersonic HD07/HD08",
+                "description": "Professional-grade hair dryer",
+                "price_range": "95.00-98.00",
+                "selling_price": "190-294",
+                "profit_margin": "100-200%",
+                "target_market": "Beauty professionals and enthusiasts",
+                "selling_points": [
+                    "Professional quality",
+                    "Fast drying technology",
+                    "Premium brand recognition",
+                    "Strong profit margins"
+                ]
+            }
+        ]
+    },
+    "fragrances": {
+        "products": [
+            {
+                "name": "Tom Ford Collection",
+                "description": "Premium designer fragrances (Multiple varieties)",
+                "price_range": "45.00",
+                "selling_price": "200",
+                "profit_margin": "344%",
+                "target_market": "Luxury fragrance enthusiasts",
+                "selling_points": [
+                    "Premium designer brand",
+                    "Wide variety of scents",
+                    "High-end market appeal",
+                    "Excellent profit margin"
+                ],
+                "varieties": [
+                    "Oud Wood",
+                    "Lost Cherry",
+                    "Bitter Peach",
+                    "Tuscan Leather",
+                    "Black Orchid EDP",
+                    "And many more..."
+                ]
+            },
+            {
+                "name": "Chanel Collection",
+                "description": "Luxury designer fragrances (100ml)",
+                "price_range": "45.00",
+                "selling_price": "200",
+                "profit_margin": "344%",
+                "target_market": "Luxury fragrance enthusiasts",
+                "selling_points": [
+                    "Iconic luxury brand",
+                    "Classic and modern scents",
+                    "High demand",
+                    "Great profit potential"
+                ],
+                "varieties": [
+                    "Bleu De EDP",
+                    "Coco Mademoiselle",
+                    "N°5",
+                    "Chance Pink EDP",
+                    "And more..."
+                ]
+            }
+        ],
+        "market_insights": {
+            "peak_seasons": ["Valentine's Day", "Christmas", "Mother's Day"],
+            "trends": [
+                "Growing interest in luxury fragrances",
+                "High demand for designer brands",
+                "Gift-giving occasions drive sales"
+            ]
+        }
+    },
+    "fashion": {
+        "products": [
+            {
+                "name": "Spider Hoodies",
+                "description": "Trendy designer hoodies",
+                "price_range": "60.00",
+                "selling_price": "240",
+                "profit_margin": "300%",
+                "target_market": "Fashion-conscious youth",
+                "selling_points": [
+                    "Popular streetwear style",
+                    "High demand",
+                    "Good profit margin",
+                    "Trendy design"
+                ]
+            },
+            {
+                "name": "Designer Clothing",
+                "description": "Various designer apparel items",
+                "price_range": "35-40",
+                "selling_price": "100-150",
+                "profit_margin": "185-275%",
+                "target_market": "Fashion enthusiasts",
+                "selling_points": [
+                    "Designer brands",
+                    "Various styles available",
+                    "Good profit margins",
+                    "High demand market"
+                ]
+            },
+            {
+                "name": "Designer Shoes",
+                "description": "Premium designer footwear",
+                "price_range": "40-70",
+                "selling_price": "200",
+                "profit_margin": "185-400%",
+                "target_market": "Fashion and sneaker enthusiasts",
+                "selling_points": [
+                    "Premium brands",
+                    "High resale value",
+                    "Strong demand",
+                    "Excellent profit potential"
+                ]
+            }
+        ],
+        "market_insights": {
+            "peak_seasons": ["Back to School", "Holiday Season", "Spring"],
+            "trends": [
+                "Growing streetwear market",
+                "High demand for designer items",
+                "Sneaker culture driving sales"
+            ]
+        }
+    },
+    "getting_started": {
+        "first_sale_tips": [
+            "Start with just one product to master it",
+            "Take high-quality photos in good lighting",
+            "Write detailed, honest descriptions",
+            "Price competitively but not too low",
+            "Respond to messages within 1-2 hours",
+            "Ship quickly and safely"
+        ],
+        "common_mistakes": [
+            "Buying too much inventory at first",
+            "Pricing too high or too low",
+            "Poor quality photos",
+            "Slow response to buyers",
+            "Not tracking expenses"
+        ],
+        "success_metrics": {
+            "response_time": "Under 2 hours",
+            "shipping_time": "Same or next day",
+            "feedback_score": "Aim for 100% positive",
+            "profit_margin": "At least 40%",
+            "monthly_sales": "Start with 5-10 items"
+        }
+    }
+}
